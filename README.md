@@ -65,8 +65,10 @@ Desenvolvedor Web Full Stack com 3 anos de experiência em aplicações web, do 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaomarigo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaomarigo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=joaomarigo&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomarigo&theme=tokyonight" alt="Resumo do perfil" />
 </p>
 
 ---
