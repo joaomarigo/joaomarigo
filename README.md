@@ -20,7 +20,7 @@ Desenvolvedor Web Full Stack com 3 anos de experiência em aplicações web, do 
 
 ## 🚀 Projetos de Destaque
 
-### 📋 [AvaliaMAIS](https://github.com/joaolucasmarigo/avaliamais)
+### 📋 [AvaliaMAIS](https://github.com/joaomarigo/avaliamais)
 > Sistema web completo de criação e aplicação de provas escolares
 
 - Painel exclusivo para coordenador, professor e aluno
@@ -65,8 +65,8 @@ Desenvolvedor Web Full Stack com 3 anos de experiência em aplicações web, do 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joaolucasmarigo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasmarigo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joaomarigo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarigo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&cache_seconds=86400" />
 </p>
 
 ---
